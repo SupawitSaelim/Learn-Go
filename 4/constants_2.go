@@ -21,3 +21,5 @@ func main() {
 	fmt.Println(A)
 	fmt.Println(B)
 }
+
+// Note: In this case, the type of the constant is inferred from the value
